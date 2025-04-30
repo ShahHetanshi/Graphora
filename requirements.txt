@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy
+networkx
+scikit-learn
+pypdf2
+torch
+torch-geometric
+transformers
+joblib
